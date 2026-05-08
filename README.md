@@ -42,9 +42,8 @@ The research was conducted using R, version 4.2.1. In addition, a number of addi
 T. Bethge <br>
 Humboldt University of Berlin 
 
-I. Fetzer   <br>
-Humboldt University of Berlin  <br>
-fetzeris@hu-berlin.de
+Isabell Ftz   <br>
+Humboldt University of Berlin 
 
 M. Paul  <br>
 Humboldt University of Berlin 
